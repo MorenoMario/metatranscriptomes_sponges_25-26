@@ -205,4 +205,3 @@ Trinity ... --output Trinity_Dendrilla_out
 - Repartición de TPM por ORF  
 - Agregado por KO  
 
-(Se puede generar un pipeline `.md` separado para eso si lo necesitas.)
