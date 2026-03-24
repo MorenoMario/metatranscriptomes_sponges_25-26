@@ -1,6 +1,5 @@
 # Anvi'o workflow – MAGs + Metatranscriptomas
 
-Pipeline en pasos, listo para pegar en GitHub. Ajusta rutas, nombres de archivos y número de hilos según tu servidor.
 
 ---
 
