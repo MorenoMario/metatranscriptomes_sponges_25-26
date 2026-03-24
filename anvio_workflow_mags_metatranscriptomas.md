@@ -1,5 +1,6 @@
 # Anvi'o workflow – MAGs + Metatranscriptomas
 
+### path: /media/mmorenos/disk3/005_MAGs_3Sponges/thr0p1/MAGs_all
 
 ---
 
